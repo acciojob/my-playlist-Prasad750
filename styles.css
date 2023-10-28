@@ -18,8 +18,8 @@ h1,h2{
 }
 
 #media{
-	width: 1300px;
-	height: 750px;
+/* 	width: 1300px;
+	height: 750px; */
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(255, 255, 255);
@@ -33,14 +33,14 @@ ul{
 
 
 video{
-	width: 1280px;
-	height: 500px;
+/* 	width: 1280px;
+	height: 500px; */
 	border: 1px solid black;
 	box-sizing: border-box;
 }
 
 audio{
-	width:1250px;
+/* 	width:1250px; */
 }
 
 #v1{
