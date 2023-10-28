@@ -8,8 +8,8 @@ h1,h2{
 	text-align:center;
 }
 #songList{
-    width: 1450px;
-	height: 150px;
+/*     width: 1450px;
+	height: 150px; */
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(255, 255, 255);
@@ -17,39 +17,37 @@ h1,h2{
 	margin-right:15px;
 }
 
-#media{
-/* 	width: 1300px;
-	height: 750px; */
+.media{
 	border: 1px solid black;
 	border-radius:5px;
 	background-color: rgb(255, 255, 255);
-	margin-inline:100px;
+	border: 1px solid black;
+
 	
 }
 
 ul{
 	list-style-type:none;
+	
+}
+ul>li a{
+	text-decoration:none;
 }
 
 
-video{
-/* 	width: 1280px;
-	height: 500px; */
-	border: 1px solid black;
-	box-sizing: border-box;
-}
 
-audio{
-/* 	width:1250px; */
-}
-
-#v1{
+.player_one{
+	background-color:rgb(255, 255, 255);
 	padding:10px;
-	box-sizing: border-box;
+	border-radius:5px;
+	
+	
 }
 
-#a1
+.player_two
 {
-	padding: 10px;
-	box-sizing: border-box;
+	background-color:rgb(255, 255, 255);
+	padding:10px;
+	border-radius:5px;
+	
 }
